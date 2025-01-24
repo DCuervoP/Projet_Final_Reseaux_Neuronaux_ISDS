@@ -1,10 +1,11 @@
-Le travail final présenté dans le cadre du cours sur les réseaux neuronaux du Master 2 ISDS (Ingénierie Statistique et Data Science) de l'Université Sorbonne et de l'Institut de Statistique de l'Université de Paris répond aux points suivants :
+Le travail final prÃ©sentÃ© dans le cadre du cours sur les rÃ©seaux neuronaux du Master 2 ISDS (IngÃ©nierie Statistique et Data Science) de l'UniversitÃ© Sorbonne et de l'Institut de Statistique de l'UniversitÃ© de Paris rÃ©pond aux points suivants :
 
-* Présentation succincte des réseaux de neurones, incluant une explication du fonctionnement de l’apprentissage supervisé du Perceptron Multicouche (PMC).
-* Utilisation de R pour le PMC et comparaison avec une ou plusieurs autres méthodes statistiques.
-* Démonstration d’un logiciel ou d’une fonction autre que nnet de R pour le traitement des réseaux neuronaux.
-* Utilisation d’un logiciel pour une démonstration de carte de Kohonen, accompagnée d’une discussion.
-* Explication soit de la Machine de Boltzmann restreinte, soit de l’apprentissage par renforcement, soit des réseaux antagonistes génératifs (GAN).
-* Démonstration logicielle d’un modèle de réseaux profonds, tel que les Réseaux Bayésiens Profonds (DBN).
+* PrÃ©sentation succincte des rÃ©seaux de neurones, incluant une explication du fonctionnement de lâ€™apprentissage supervisÃ© du Perceptron Multicouche (PMC).
+* Utilisation de R pour le PMC et comparaison avec une ou plusieurs autres mÃ©thodes statistiques.
+* DÃ©monstration dâ€™un logiciel ou dâ€™une fonction autre que nnet de R pour le traitement des rÃ©seaux neuronaux.
+* Utilisation dâ€™un logiciel pour une dÃ©monstration de carte de Kohonen, accompagnÃ©e dâ€™une discussion.
+* Explication soit de la Machine de Boltzmann restreinte, soit de lâ€™apprentissage par renforcement, soit des rÃ©seaux antagonistes gÃ©nÃ©ratifs (GAN).
+* DÃ©monstration logicielle dâ€™un modÃ¨le de rÃ©seaux profonds, tel que les RÃ©seaux BayÃ©siens Profonds (DBN).
 * Conclusion.
-Le travail a été réalisé sur Google Colab afin d’utiliser Python et R dans un même notebook.
+
+Le travail a Ã©tÃ© rÃ©alisÃ© sur Google Colab afin dâ€™utiliser Python et R dans un mÃªme notebook.
